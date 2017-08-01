@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "902711849731",
+    "firebase_url": "https://endcript-7cf32.firebaseio.com",
+    "project_id": "endcript-7cf32",
+    "storage_bucket": "endcript-7cf32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902711849731:android:584cf5dc5701807a",
+        "android_client_info": {
+          "package_name": "com.brb.breban.endcript"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902711849731-oeqc33bnioqm93pnvu5afrrmeqlcucvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsrlX-QHzfLwvWW8qjXMnDDvSb9U-aI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
